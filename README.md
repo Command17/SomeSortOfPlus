@@ -19,6 +19,8 @@ This mod adds accessories that give you some effects:
 
 </details>
 
+---
+
 ## Getting the stuff
 
 <details>
