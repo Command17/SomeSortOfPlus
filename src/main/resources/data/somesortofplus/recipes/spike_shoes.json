@@ -1,17 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "D",
-    "#"
-  ],
-  "key": {
-    "#": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:leather_boots"
     },
-    "D": {
-      "item": "minecraft:iron_bar"
+    {
+      "item": "minecraft:iron_ingot"
     }
-  },
+  ],
   "result": {
     "item": "somesortofplus:spike_shoes",
     "count": 1
