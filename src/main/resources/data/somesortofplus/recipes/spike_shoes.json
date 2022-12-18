@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather_boots"
+    },
+    "D": {
+      "item": "minecraft:iron_bar"
+    }
+  },
+  "result": {
+    "item": "somesortofplus:spike_shoes",
+    "count": 1
+  }
+}
