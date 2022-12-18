@@ -38,7 +38,7 @@ You need ***2 Strings and 1 Diamond*** then place it like a necklace in the craf
 
 ### Spike Shoes
 
-You need ***Leather Boots and an Iron Bar*** then you place the shoes over the bar.
+You need ***Leather Boots and an Iron Ingot*** then you place the shoes over the bar.
 
 ### Heart Necklace
 
